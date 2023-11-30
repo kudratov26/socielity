@@ -1,0 +1,17 @@
+button {
+    border-radius: 8px;
+}
+
+.type1 {
+    color: #fff;
+    background-color: #4579CB;
+    font-weight: 700;
+    padding: 13px 34px;
+}
+
+.type2 {
+    color: #fff;
+    background-color: #4579CB;
+    font-weight: 700;
+    padding: 11px 25px;
+}

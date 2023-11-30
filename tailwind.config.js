@@ -9,6 +9,15 @@ export default {
           xl: "1160px",
         },
       },
+      colors: {
+        blue: {
+          DEFAULT: "#4579CB"
+        },
+        gray: {
+          DEFAULT: "#666",
+          title: "#474747"
+        }
+      },
       fontFamily: {
         "segoe-ui": "Segoe UI",
       },
